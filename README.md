@@ -1,13 +1,10 @@
 # Hi there 👋🏽 I'm Randy
 
 ## I'm a software engineer and I love what I do!
-🧑🏾‍💻   Have a look at [my Linktree](https://linktr.ee/randywritescode).
-
-🧩  I'm currently learning Java and Spring.
-
-📧 The best way to reach me is by email: <randy.e.douglas@gmail.com>
-
-⚡  Fun fact: I was a classroom teacher for 5 years, but left to pursue my passion!
+- 🧑🏾‍💻   Have a look at [my Linktree](https://linktr.ee/randywritescode).
+- 🧩  I'm currently learning Java and Spring.
+- 📧 The best way to reach me is by email: <randy.e.douglas@gmail.com>
+- ⚡  Fun fact: I was a classroom teacher for 5 years, but left to pursue my passion!
 
 
 ### Connect with me
